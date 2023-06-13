@@ -1,5 +1,5 @@
 #include <stdio.h>
-ㅎ	// 대체 함수를 사용하라는 경고를 없앨 때 사용
+#pragma warning(disable:4996)	// 대체 함수를 사용하라는 경고를 없앨 때 사용
 
 int	main(void)
 {
