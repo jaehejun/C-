@@ -11,4 +11,4 @@ int	main(void)
 	printf("d2=%20.18f\n", d2);
 
 	return 0;
-}
+} 
