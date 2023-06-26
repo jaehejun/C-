@@ -19,3 +19,4 @@ double	d = 1.0 + (double)i;
 double	d = (double)1.0 + (double)3;	// 3을 double타입으로 형변환하면 3.0이 된다.
 double	d = 1.0 + 3.0;					// double과 double의 덧셈결과 타입은 double이 된다.
 double	d = 4.0;						// double + double = double
+
